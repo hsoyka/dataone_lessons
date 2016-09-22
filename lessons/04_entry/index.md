@@ -4,6 +4,7 @@ author: DataONE Community Engagement & Outreach
 update: Sept. 22, 2016
 layout: slides
 ---
+
 # Lesson Topics
 - Best Practices for Creating Data Files
 - Data Entry Options
@@ -22,7 +23,13 @@ In this module we will be looking at best practices as related to the creation o
 - Review best practices for data integration
 - Describe the basic components of a relational database
 
+---
+# The DataONE Data Life Cycle
 
+
+
+???
+In this module we will be focusing on best practices for entering data into an electronic format. This is related to the planning and collection phases of the data life cycle.
 
 ---
 # Goals of Data Entry
